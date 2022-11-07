@@ -1,8 +1,0 @@
-1) The main difference is StringBuilder is Mutable whereas String is Immutable.
-2) Int32 is a type provided by .NET framework whereas int is an alias for Int32 in C#
-3) Lock keyword ensures that one thread is executing a piece of code at one time.
-4) When accessing unmanaged resources.
-5) Anonymous functions just like in JS ES6.
-14) The Queue class tracks objects on First-in & First-Out basis, while the Stack class tracks objects on First-in & Last-out basis.
-15) In List we can easily add, remove or modify data/a list item, and there is no fixed length.
-16) When the hash function generates the same index for multiple keys, there will be a conflict (what value to be stored in that index). This is called a hash collision.
